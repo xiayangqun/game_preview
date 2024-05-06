@@ -1,0 +1,1 @@
+window.CSV={castle:null,lottery:null,master:null,system:null,technology:null,init:function(l,t){for(let e=0;e<l.length;e++){let n=l[e].text.split("\n"),i=[];i[0]=n[1].split(",");for(let l=2;l<n.length;l++){let t={},e=n[l].split(",");for(let l=0;l<e.length;l++)t[i[0][l]]=e[l];i[l-1]=t}this[t[e]]=i}}};
