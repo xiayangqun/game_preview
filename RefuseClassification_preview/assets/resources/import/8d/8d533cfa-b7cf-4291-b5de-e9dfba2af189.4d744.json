@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"system","垃圾下降基础速度,垃圾下降最大速度,警戒线上移速度,5秒广告插入频率,30秒广告按钮冷却时间,垃圾奖励道具出现概率(1:少量金币2:较多钱币3:拉拽手套)\r\nrbMinFallSpeed,rbMaxFallSpeed,cdUpSpeed,ad5show,ad30show,rewardShow\r\n16,16,7,1,30,70;5;25"]],0,0,[],[],[]]
